@@ -18,7 +18,7 @@ We describe the game of random movement of the pacmen in the following steps:
 
 -Finally when a given Pacman reaches any edge of the screen, it should change position to stay within the frame of the web page.
 
-But you can see all the code in the following link: <a href="https://htmlpreview.github.io/?https://github.com/pjvalverde/PacMen-Exercise/blob/main/index.html">Pacman Exercise</a>
+But you can see all the code in the following link: <a href="https://htmlpreview.github.io/?https://github.com/pjvalverde/PacMen-Exercise/blob/main/index.html">Pacmen Exercise</a>
 
 
 
